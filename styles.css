@@ -46,4 +46,17 @@ li{
     font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-
+.div-buscar{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
+input{
+    text-align: center;
+    height: 40px;
+    font-size: 40px;
+    border-radius: 40px;
+    border-color: rgb(231, 190, 28);
+    border-width: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
